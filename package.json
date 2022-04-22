@@ -1,0 +1,21 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node cse341/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emily-purser/cse341.git"
+  },
+  "keywords": [
+    "cse341"
+  ],
+  "author": "Emily Purser",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
